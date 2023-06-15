@@ -9,5 +9,5 @@
     <string name="tvpesoNormal">Entre 18,5 e 24,9   Normal 0 </string>
     <string name="tvsobrepeso">Entre 25,0 e 29,9   Sobrepeso I</string>
     <string name="tvobesidade">Entre 30,0 e 39,9   Obesidade II</string>
-    <string name="tvobgrave">Maior que 40,0      Obesidade Grave III</string>
+    <string name="tvobgrave">Maior que 40,0     Obesidade Grave III</string>
 </resources>
